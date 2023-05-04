@@ -4,6 +4,6 @@ import InitialPage from './source/pages/InitialPage';
 
 export default function App() {
   return (
-    <InitialPage/>
+    <InitialPage/> 
   );
 }
